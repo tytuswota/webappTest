@@ -1,0 +1,14 @@
+{
+    "name": "Calculator",
+    "short_name": "Calculator",
+    "start_url": "https://tytuswota.github.io/webappTest/",
+    "theme_color": "#009578",
+    "display":"standalone",
+    "icons":[
+        {
+            "src": "images/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
